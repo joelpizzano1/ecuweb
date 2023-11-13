@@ -2,12 +2,12 @@ Datos de acceso via ftp
 
 Servidor: www.roman-company.com
 Usuario: wromanco
-Contraseña: ^A4=o~d.F+&Z
+ContraseÃ±a: ^A4=o~d.F+&Z
 
 Datos de acceso cpanel
 Servidor: www.roman-company.com/cpanel 
 Usuario: wromanco
-Contraseña: ^A4=o~d.F+&Z
+ContraseÃ±a: ^A4=o~d.F+&Z
 
 Datos de acceso a correo (primero tiene que crear mediante cpanel)
 Servidor: www.roman-company.com/webmail 
@@ -17,6 +17,6 @@ Para acceso FTP recomendamos ocupar Filezilla
 Por razones de seguridad en nuestro servidor, debe cambiar lo siguiente:
 
 1. Archivo > gestor de sitios
-2. Servidor / Usuario y Contraseña va normal
+2. Servidor / Usuario y ContraseÃ±a va normal
 3. En cifrado > Requiere FTP explicito sobre TLS
-4. Modo de acceso normal
+4. Modo de acceso normal123456

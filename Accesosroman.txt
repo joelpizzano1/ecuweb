@@ -19,4 +19,4 @@ Por razones de seguridad en nuestro servidor, debe cambiar lo siguiente:
 1. Archivo > gestor de sitios
 2. Servidor / Usuario y Contraseña va normal
 3. En cifrado > Requiere FTP explicito sobre TLS
-4. Modo de acceso normal123456
+4. Modo de acceso normal
